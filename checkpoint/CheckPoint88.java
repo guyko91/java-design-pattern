@@ -1,3 +1,5 @@
+package checkpoint;
+
 public class CheckPoint88 {
 
     public static class Person {
